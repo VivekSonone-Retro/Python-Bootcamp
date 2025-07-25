@@ -1,3 +1,5 @@
+#% messages that hs to print
+
 print ("Hello World")
 print ("hii my name is Vivek")
 print ("I enrolled for a 30 days bootcamo")
