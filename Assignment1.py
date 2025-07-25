@@ -1,1 +1,5 @@
 print ("Hello World")
+print ("hii my name is Vivek")
+print ("I enrolled for a 30 days bootcamo")
+print ("Which is organized by Wisdom Sprout")
+print ("it is a leading training institute in pune")
